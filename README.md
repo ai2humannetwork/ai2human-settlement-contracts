@@ -43,6 +43,6 @@ Contract seed extracted from the live AI2Human product. Keep audits, deployments
 
 ## Links
 
-- Website: https://ai2human.work
+- Website: https://ai2human.io
 - X: https://x.com/ai2humannetwork
 
